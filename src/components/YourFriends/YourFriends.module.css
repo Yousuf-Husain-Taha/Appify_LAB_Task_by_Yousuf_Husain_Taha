@@ -1,0 +1,56 @@
+#window{
+    border-radius: 5px;
+    padding: 29px 24px;
+    background-color: #FFFFFF;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+#title{
+    font-family: 'Kanit';
+    font-size: 16px;
+    font-weight: 550;
+    margin: 0px;
+    padding: 0px;
+}
+
+#search_bar{
+    margin: 30px 0px 0px 0px;
+    padding: 0px 15px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #F5F5F5;
+    display: flex;
+    align-items: center;
+}
+
+#search_input{
+    border: none;
+    width: 100%;
+    background-color: #F5F5F5;
+}
+
+#search_input:focus{
+    outline: none;
+}
+
+.friend{
+    margin: 25px 0px 0px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.friend img{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.friend p{
+    margin: 0px 0px 0px 10px;
+    padding: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #263238;
+}

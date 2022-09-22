@@ -1,0 +1,51 @@
+#suggested_people{
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    padding: 25px;
+    text-align: left;
+}
+
+#suggested_people_title{
+    font-family: 'Kanit';
+    font-size: 16px;
+    font-weight: 550;
+    margin: 0px;
+    padding: 0px;
+}
+
+.people{
+    margin: 25px 0px 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.people_info{
+    display: flex;
+    align-items: center;
+}
+
+.people_info img{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.people_info p{
+    margin: 0px 0px 0px 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+    max-width: 125px;
+}
+
+.people button{
+    width: 60px;
+    height: 32px;
+    border-radius: 5px;
+    border: 1px solid #BFC4CE;
+    color: #BFC4CE;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #FFFFFF;
+}

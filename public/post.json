@@ -1,0 +1,464 @@
+[
+    {
+        "id":1,
+        "profile_picture":"",
+        "name":"Adnan Chowdhury",
+        "activity":"",
+        "time":"1 hour ago",
+        "privacy":"public",
+        "post":{
+            "text":"your favourite game",
+            "background":"",
+            "images":[]
+        },
+        "reacts":{
+            "like":0,
+            "love":0,
+            "care":0,
+            "haha":0,
+            "wow":0,
+            "sad":0,
+            "angry":0
+        },
+        "poll": true,
+        "comment_view" : true,
+        "comments":[
+            {
+                "profile_picture":"",
+                "name":"Adnan Chowdhury",
+                "text":"",
+                "image":"http://dyslexia.yale.edu/wp-content/uploads/2017/08/Yale-Dyslexia-378.jpg",
+                "time":"54 minute ago",
+                "reply":[
+                    {
+                        "profile_picture":"",
+                        "name":"Adnan Chowdhury",
+                        "text":"hlo",
+                        "image":"",
+                        "time":"1 second ago"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":2,
+        "profile_picture":"",
+        "name":"Adnan Chowdhury",
+        "activity":"is feeling ok",
+        "time":"1 hour ago",
+        "privacy":"public",
+        "post":{
+            "text":"Have a good day!",
+            "background":"",
+            "images":[
+                "https://lh5.googleusercontent.com/l9QVMTKaonIk7P9Svb9_N3JSLEGoeqSa2VdCtLyzsKeTL-94FMynqF3UNEyiFOeDMXVbYmuxwqVKFLQUxHGWNVU=w1280",
+                "https://freestyletraveling.com/app/uploads/2022/05/DSC_3208-1024x683-1.jpg",
+                "https://lh3.googleusercontent.com/INwXwBQsWBtBZ13-UWF5hhMCcF2xESTdnt7yh-lBeOxFKjl5uAn_Z7tuksRl1bcX_2J7ACYvnBPiMPaGT9UUcsdpwtJXTvuotOoiN_Ymm-XzxEIb3mO4TPhpLW48Bli6Yg=w1280",
+                "https://lh6.googleusercontent.com/bQVJwFrvVAWVTL7rD-aXPnOf3AejYIzNN9mSK2VrFOihAQzy_nubCh7BDg_RfHgQAyUvnuCaW1topGmM8gg_eC6J1nrPVIB-bzf97adcyDqCpNACJyi49xoBYYFm87mqHw=w1280",
+                "https://lh4.googleusercontent.com/6BL3uiKhPxR1YYqqlVV84l0kDin6bNXaxWRDQMIPoChy33J1oR-vjYEzKErI1pxgOyJf6QbqMygmIQVSMPgjgU5zXcEk_4ka_QeDlF9McJIjGLuAQyYzaWvNwrOPNP6ahg=w1280"
+            ]
+        },
+        "post_setting" : true,
+        "reacts":{
+            "angry":0,
+            "sad":0,
+            "wow":0,
+            "haha":0,
+            "care":0,
+            "love":2,
+            "like":2
+        },
+        "comments":[ ]
+    },
+    {
+        "id":3,
+        "profile_picture":"https://www.24-7pressrelease.com/assets/attachments/041/press_release_distribution_0419161_98684.jpg",
+        "name":"alfred parchment",
+        "activity":"updated her profile picture",
+        "time":"17 day ago",
+        "privacy":"public",
+        "post":{
+            "text":"Have a good day!",
+            "background":"",
+            "images":[
+                "https://www.24-7pressrelease.com/assets/attachments/041/press_release_distribution_0419161_98684.jpg"
+            ]
+        },
+        "reacts":{
+            "angry":0,
+            "sad":0,
+            "wow":0,
+            "haha":0,
+            "care":0,
+            "love":0,
+            "like":3
+        },
+        "comments":[ ]
+    },
+    {
+        "id":4,
+        "profile_picture":"https://www.nabila.com.bd/wp-content/uploads/2019/01/Punjabi-9947-300x450.jpg",
+        "name":"Shakil Ahmed ⏵ BLACK BUSINESS OWNERS",
+        "activity": "",
+        "time":"21 days ago",
+        "privacy":"public",
+        "post":{
+            "text":"Hi everyone",
+            "background":"",
+            "images":[ ]
+        },
+        "reacts":{
+            "angry":0,
+            "sad":0,
+            "wow":0,
+            "haha":0,
+            "care":0,
+            "love":3,
+            "like":3
+        },
+        "comments":[
+            {
+                "profile_picture":"",
+                "name":"",
+                "text":"",
+                "image":"",
+                "time":"",
+                "reply":[]
+            }
+         ]
+    },
+    {
+        "id":5,
+        "profile_picture":"https://image.shutterstock.com/image-photo/perfect-beard-closeup-young-bearded-260nw-1072946747.jpg",
+        "name":"Flo Pharoah",
+        "activity": "",
+        "time":"23 days ago",
+        "privacy":"public",
+        "post":{
+            "text":"Since im detoxing and my had is becoming clearer, it's time for me to dive into this book! It's a self-reflective book. You write into with it all honesty about yourself and the people around you and the ways you could change or help certain situations! It's a book of self control and discipline! I highly recomend 💪 💪 ",
+            "background":"",
+            "images":[ 
+                "https://lh5.googleusercontent.com/tc-F18MKieX1zZ4p_qtWLhMw5Kr6_RvJfy4w2785_5z9VawK0V8OOuqi_2wKAzG8YMkM8g1_rxP4_iDOTRudYYHqCPAd21e_iO--SyQOu5HgSqqXUbEzJhUuC09xXF-Amw=w1280"
+             ]
+        },
+        "reacts":{
+            "angry":1,
+            "sad":0,
+            "wow":0,
+            "haha":0,
+            "care":0,
+            "love":1,
+            "like":1
+        },
+        "comments":[ ]
+    },
+    {
+        "id":6,
+        "profile_picture":"",
+        "name":"Flo Pharoah",
+        "activity": "",
+        "time":"23 days ago",
+        "privacy":"public",
+        "post":{
+            "text":"",
+            "background":"",
+            "images":[ 
+                "https://lh3.googleusercontent.com/LFUTnQpPt5JaxHv1K9Xqm3J-ARKnesgr47PdFBjDLsIkh0h--apHBbFz6eDRjyTgXS0hbph0tEuCm9aozWHxvL3ryF78ZopRIvykWftjDIp25JTe0G43lVEkeDqFD-Cn=w1280"
+             ]
+        },
+        "reacts":{
+            "angry":0,
+            "sad":0,
+            "wow":0,
+            "haha":0,
+            "care":0,
+            "love":1,
+            "like":1
+        },
+        "comments":[
+            {
+                "profile_picture":"",
+                "name":"",
+                "text":"",
+                "image":"",
+                "time":"",
+                "reply":[]
+            }
+         ]
+    },
+    {
+        "id":7,
+        "profile_picture":"https://image.shutterstock.com/image-photo/perfect-beard-closeup-young-bearded-260nw-1072946747.jpg",
+        "name":"Flo Pharoah",
+        "activity": "",
+        "time":"25 days ago",
+        "privacy":"public",
+        "post":{
+            "text":"Stop confusing temporary happiness for long-term connections!! There are some people that come into your life that is just there for the moments! Not everyone deserves your inside story or all of your commitment and loyality andnot everyone is meant to be placed in first, some are literally in your life just for good vibes or a channel to heal through! #Learn your place in peoples life and place people where they should be in yours and don't force anything extra!!",
+            "background":"",
+            "images":[ 
+                ""
+             ]
+        },
+        "reacts":{
+            "angry":0,
+            "sad":0,
+            "wow":3,
+            "haha":0,
+            "care":0,
+            "love":3,
+            "like":3
+        },
+        "comments":[ ]
+    },
+    {
+        "id":8,
+        "profile_picture":"",
+        "name":"Mac Dusa",
+        "activity": "",
+        "time":"25 days ago",
+        "privacy":"public",
+        "post":{
+            "text":"without trust in a relationship, is there even a relationship?",
+            "background":"",
+            "images":[ 
+                ""
+             ]
+        },
+        "reacts":{
+            "angry":0,
+            "sad":0,
+            "wow":0,
+            "haha":0,
+            "care":0,
+            "love":0,
+            "like":3
+        },
+        "comments":[
+            {
+                "profile_picture":"",
+                "name":"",
+                "text":"",
+                "image":"",
+                "time":"",
+                "reply":[]
+            },{
+                "profile_picture":"",
+                "name":"",
+                "text":"",
+                "image":"",
+                "time":"",
+                "reply":[]
+            },{
+                "profile_picture":"",
+                "name":"",
+                "text":"",
+                "image":"",
+                "time":"",
+                "reply":[]
+            }
+         ]
+    },
+    {
+        "id":9,
+        "profile_picture":"https://image.shutterstock.com/image-photo/perfect-beard-closeup-young-bearded-260nw-1072946747.jpg",
+        "name":"Flo Pharoah",
+        "activity": "",
+        "time":"26 days ago",
+        "privacy":"public",
+        "post":{
+            "text":"I never seeked validation so your opinion of my opinion is something you really could've kept to youself!!",
+            "background":"",
+            "images":[ 
+                ""
+             ]
+        },
+        "reacts":{
+            "angry":0,
+            "sad":0,
+            "wow":0,
+            "haha":0,
+            "care":0,
+            "love":0,
+            "like":2
+        },
+        "comments":[ 
+         ]
+    },
+    {
+        "id":10,
+        "profile_picture":"https://image.shutterstock.com/image-photo/perfect-beard-closeup-young-bearded-260nw-1072946747.jpg",
+        "name":"Flo Pharoah",
+        "activity": "",
+        "time":"26 days ago",
+        "privacy":"public",
+        "post":{
+            "text":"The fact that we are letting love die sickens me!!",
+            "background":"",
+            "images":[ 
+                ""
+             ]
+        },
+        "reacts":{
+            "angry":0,
+            "sad":0,
+            "wow":0,
+            "haha":0,
+            "care":0,
+            "love":1,
+            "like":2
+        },
+        "comments":[ 
+         ]
+    },
+    {
+        "id":11,
+        "profile_picture":"https://images.unsplash.com/photo-1569779213435-ba3167dde7cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFuJTIwZ2xhc3Nlc3xlbnwwfHwwfHw%3D&w=1000&q=80",
+        "name":"Sadek Hossain",
+        "activity": "",
+        "time":"27 days ago",
+        "privacy":"public",
+        "post":{
+            "text":"Click your home icon to refresh feed!",
+            "background":"",
+            "images":[ 
+                ""
+             ]
+        },
+        "reacts":{
+            "angry":0,
+            "sad":0,
+            "wow":0,
+            "haha":1,
+            "care":0,
+            "love":0,
+            "like":2
+        },
+        "comments":[
+            {
+                "profile_picture":"",
+                "name":"",
+                "text":"",
+                "image":"",
+                "time":"",
+                "reply":[]
+            },{
+                "profile_picture":"",
+                "name":"",
+                "text":"",
+                "image":"",
+                "time":"",
+                "reply":[]
+            },{
+                "profile_picture":"",
+                "name":"",
+                "text":"",
+                "image":"",
+                "time":"",
+                "reply":[]
+            }
+         ]
+    },
+    {
+        "id":12,
+        "profile_picture":"https://i.pinimg.com/736x/46/02/59/460259d0cb3432a3682ae8228447c509.jpg",
+        "name":"kamran ahmed",
+        "activity": "",
+        "time":"27 days ago",
+        "privacy":"public",
+        "post":{
+            "text":"jhe",
+            "background":"",
+            "images":[ 
+                ""
+             ]
+        },
+        "reacts":{
+            "angry":0,
+            "sad":0,
+            "wow":0,
+            "haha":1,
+            "care":0,
+            "love":0,
+            "like":2
+        },
+        "comments":[
+            {
+                "profile_picture":"",
+                "name":"",
+                "text":"",
+                "image":"",
+                "time":"",
+                "reply":[]
+            }
+         ]
+    },
+    {
+        "id":13,
+        "profile_picture":"https://image.shutterstock.com/image-photo/perfect-beard-closeup-young-bearded-260nw-1072946747.jpg",
+        "name":"Flo Pharoah",
+        "activity": "",
+        "time":"28 days ago",
+        "privacy":"public",
+        "post":{
+            "text":"#Grandrising & !! Remember, it is not a 'mistake' for someone to treat you in a way they wouldn't want to be treated! If they cared about you enough those actions would've even never crossed their minds!!",
+            "background":"",
+            "images":[ 
+                ""
+             ]
+        },
+        "reacts":{
+            "angry":0,
+            "sad":0,
+            "wow":1,
+            "haha":0,
+            "care":0,
+            "love":3,
+            "like":2
+        },
+        "comments":[ 
+         ]
+    },
+    {
+        "id":14,
+        "profile_picture":"",
+        "name":"salman ahmed",
+        "activity": "",
+        "time":"29 days ago",
+        "privacy":"public",
+        "post":{
+            "text":"jhe",
+            "background":"",
+            "images":[ 
+                ""
+             ]
+        },
+        "reacts":{
+            "angry":0,
+            "sad":0,
+            "wow":0,
+            "haha":0,
+            "care":0,
+            "love":0,
+            "like":2
+        },
+        "comments":[
+            {
+                "profile_picture":"",
+                "name":"",
+                "text":"",
+                "image":"",
+                "time":"",
+                "reply":[]
+            },{
+                "profile_picture":"",
+                "name":"",
+                "text":"",
+                "image":"",
+                "time":"",
+                "reply":[]
+            }
+         ]
+    }
+]

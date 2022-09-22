@@ -1,0 +1,13 @@
+#root{
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+#root p{
+    color: #32BCB0;
+    margin: 10px 10px;
+}

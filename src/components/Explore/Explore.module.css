@@ -1,0 +1,31 @@
+#explore{
+    border-radius: 5px;
+    margin: 10px 0px 0px 0px;
+    background-color: #FFFFFF;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    text-align: left;
+}
+
+#explore_title{
+    font-family: 'Kanit';
+    font-size: 16px;
+    font-weight: 550;
+    margin: 0px;
+    padding: 0px;
+}
+
+.explore_option{
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+.explore_option p{
+    margin: 0px 0px 0px 12px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #666666;
+}

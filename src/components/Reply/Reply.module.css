@@ -1,0 +1,67 @@
+#reply{
+    margin: 8px 0px;
+    display: flex;
+    align-content: top;
+    gap: 10px;
+}
+
+#replyer_pic{
+    width: 38px;
+    height: 38px;
+}
+
+#reply_info{
+    margin: 0px 0px 0px 16px;
+}
+
+#reply_body_container{
+    display: flex;
+}
+
+#reply_body{
+    width: fit-content;
+    border-radius: 18px;
+    background-color: #F6F6F6;
+    padding: 10px;
+    text-align: left;
+}
+
+#replyer_name{
+    font-size: 16px;
+    font-weight: 550;
+    margin: 0px;
+    padding: 0px;
+    width: fit-content;
+    font-family: 'Kanit';
+}
+
+#reply_text{
+    margin: 6px 0px 6px 0px;
+    font-style: 'Ubuntu';
+    font-size: 16px;
+}
+
+#reply_image{
+    margin: 0px;
+    max-width: 150px;
+    height: auto;
+}
+
+#dot{
+    margin: 0px 15px;
+}
+
+#reply_bottom{
+    text-align: left;
+    margin: 15px 0px;
+}
+
+#reply_react{
+    font-size: 12px;
+    margin: 0px;
+}
+
+#reply_span{
+    font-size: 14px;
+    font-weight: 600;
+}

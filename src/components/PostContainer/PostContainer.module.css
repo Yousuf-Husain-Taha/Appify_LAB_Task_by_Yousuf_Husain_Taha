@@ -1,0 +1,5 @@
+#post_container{
+    background-color: none;
+    display: grid;
+    grid-template-columns: 1fr;
+}

@@ -1,0 +1,129 @@
+#comment{
+    margin: 17px 0px 0px 0px;
+    display: flex;
+    align-content: top;
+}
+
+#commenter_pic{
+    width: 40px;
+    height: 40px;
+}
+
+#comment_info{
+    margin: 0px 0px 0px 16px;
+    width: 100%;
+}
+
+#comment_body_container{
+    display: flex;
+    align-items: center;
+    width: min-content;
+}
+
+#comment_body{
+    float: left;
+    width: fit-content;
+    border-radius: 18px;
+    background-color: #F6F6F6;
+    padding: 5px;
+    text-align: left;
+}
+
+#commenter_name{
+    font-size: 16px;
+    font-weight: 550;
+    margin: 0px;
+    padding: 0px;
+    width: fit-content;
+    font-family: 'Kanit';
+}
+
+#comment_text{
+    margin: 6px 0px 6px 0px;
+    font-style: 'Ubuntu';
+    font-size: 16px;
+}
+
+#comment_image{
+    margin: 0px;
+    max-width: 150px;
+    height: auto;
+}
+
+#dot{
+    margin: 0px 15px;
+}
+
+#comment_bottom{
+    text-align: left;
+    margin: 15px 0px;
+}
+
+#comment_react{
+    font-size: 12px;
+    margin: 0px;
+}
+
+#comment_span{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#replyer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#replyer_pic{
+    width: 48px;
+    height: 48px;
+    margin: 0px 30px 0px 0px;
+}
+
+#replyer_option{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.replyer_option_icon{
+    margin: 0px 7px 0px 0px;
+}
+
+
+#reply_box{
+    height: 34px;
+    width: 100%;
+    border-radius: 17px;
+    background-color: #F0F2F5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#input_reply{
+    border: none;
+    border-radius: 18px;
+    background-color: #F0F2F5;
+    margin: 0px 18px;
+}
+
+#input_reply:focus{
+    outline: none;
+}
+
+#telegram_icon{
+    height: 16px;
+    width: 16px;
+    margin: 0px 22px;
+}
+
+#input_reply{
+    width: 100%;
+    border: none;
+    border-radius: 18px;
+    background-color: #F0F2F5;
+}

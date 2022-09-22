@@ -1,0 +1,84 @@
+#you_might_like{
+    margin: 10px 0px 16px 0px;
+    padding: 30px 20px;
+    border-radius: 7px;
+    background-color: #FFFFFF;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+#title{
+    font-family: 'Kanit';
+    font-size: 16px;
+    font-weight: 550;
+    margin: 0px 0px 25px 0px;
+    padding: 0px;
+}
+
+.item{
+    margin: 25px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.info{
+    margin: 0px;
+    display: flex;
+    align-items: center;
+}
+
+.info img{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.info_text{
+    margin: 0px 0px 0px 20px;
+}
+
+.info_text h1{
+    font-family: 'Kanit';
+    font-size: 15px;
+    font-weight: 550;
+    margin: 0px;
+    padding: 0px;
+}
+
+.info_text h2{
+    font-family: 'Kanit';
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0px;
+    padding: 0px;
+}
+
+.button_container{
+    margin: 10px 5px 0px 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ignor_button{
+    padding: 10px;
+    width: 48%;
+    font-size: 16px;
+    font-weight: 600;
+    color: #D1D1D1;
+    background-color: #FFFFFF;
+    border: 2px solid #E1E1E1;
+    border-radius: 5px;
+}
+
+.follow_button{
+    padding: 10px;
+    width: 48%;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    background-color: #DB2025;
+    border: 2px solid #DB2025;
+    border-radius: 5px;
+}

@@ -1,0 +1,33 @@
+#download{
+    margin: 15px 0px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    padding: 13px;
+    text-align: left;
+}
+
+#download p{
+    font-family: 'Kanit';
+    font-size: 16px;
+    font-weight: 550;
+    margin: 0px;
+    padding: 0px;
+}
+
+#logo_container{
+    margin: 13px 0px 0px 0px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#app_store{
+    width: 46.4%;
+    height: auto;
+}
+
+#google_play{
+    width: 52%;
+    height: auto;
+}

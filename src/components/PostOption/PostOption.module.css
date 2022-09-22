@@ -1,0 +1,41 @@
+#root{
+    border-radius: 5px;
+    margin: 16px 15px 20px 15px;
+    background-color: #FFFFFF;
+}
+
+#up{
+    padding: 10px 15px;
+    display: flex;
+    gap: 15px;
+}
+
+#up input{
+    border: none;
+    border-radius: 20px;
+    width: 100%;
+    height: 40px;
+    padding: 0px 16px;
+    background-color: #F0F0F0;
+}
+
+#up input:focus{
+    outline: none;
+}
+
+#down{
+    display: flex;
+    justify-content: space-around;
+}
+
+.post_option{
+    margin: 25px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.post_option p{
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0px 0px 0px 11px;
+}
